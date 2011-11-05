@@ -10,7 +10,7 @@ namespace Wii_tracking6dof
     {
         bool connected;
         public void wii_stuff()
-        {
+        { 
             // create a new instance of the Wiimote
             Wiimote wm = new Wiimote();
 
